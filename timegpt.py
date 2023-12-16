@@ -1,7 +1,7 @@
 #%% Imports and setup
 from nixtlats import TimeGPT
 import pandas as pd
-token = "CLfEQIBnngCcRuxmVz8wCe9EbQY87J80en7pLo3T11UcP3ra3vSHEtEb1P61nI9iJTL1klVM7sXxy0RxXHJVtTmxfqJKVcqWYxfgbPDIENq41JdTpSjwW268a4j5sE4QE6RvaxhMYSYdqtxsdP8V0a5EKJ79Nqs2Ficn67ov5eB27OzJuUL62RlKSHzxEADIpC9GixiRdc2uaHnltO4uQp8BU89q9D8ACm7rYTJu0ntHcTtLK3zpUUh97lEuCsd7"
+token = ""
 file_name_plot = "plots/timegpt_result.png"
 file_name_workbook = "workbooks/results.xlsx"
 file_name_dataset = "datasets/1wind/st_5_windspeed_converted.csv"

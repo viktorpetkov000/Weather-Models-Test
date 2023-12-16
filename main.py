@@ -136,4 +136,5 @@ worksheet.insert_chart('H2', chart)
 
 #%% Save the excel
 writer.close()
+
 # %%

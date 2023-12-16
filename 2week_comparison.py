@@ -2,7 +2,7 @@
 from nixtlats import TimeGPT
 from prophet import Prophet
 import pandas as pd
-token = "CLfEQIBnngCcRuxmVz8wCe9EbQY87J80en7pLo3T11UcP3ra3vSHEtEb1P61nI9iJTL1klVM7sXxy0RxXHJVtTmxfqJKVcqWYxfgbPDIENq41JdTpSjwW268a4j5sE4QE6RvaxhMYSYdqtxsdP8V0a5EKJ79Nqs2Ficn67ov5eB27OzJuUL62RlKSHzxEADIpC9GixiRdc2uaHnltO4uQp8BU89q9D8ACm7rYTJu0ntHcTtLK3zpUUh97lEuCsd7"
+token = ""
 unique_run = "1week"
 file_name = "data_2022-10-02_00_00_00"
 file_name_dataset = f"datasets/1wind/{unique_run}.csv"
